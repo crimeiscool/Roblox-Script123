@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/crimeiscool/Orion/main/test')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/crimeiscool/Roblox-Script123/blob/main/test.lua)))()
 
 local Window = OrionLib:MakeWindow({Name = "Counter Blox / Darklife Script Hub", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
