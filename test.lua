@@ -26,6 +26,8 @@ Tab:AddSlider({
 	end    
 })
 
+OrionLib:Init()
+
 
 
 
